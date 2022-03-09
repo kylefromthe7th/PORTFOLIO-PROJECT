@@ -104,6 +104,12 @@ li a{
     background-color: darkslategrey;
 }
 
+#projects > h1{
+    font-size: 4rem;
+    text-align: center;
+    padding: 1.2rem 0;
+}
+
 .project-container{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
